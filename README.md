@@ -1,2 +1,2 @@
 # machineLearning
-Repo for CS4342-D20
+Repo for WPI CS4342-D20
